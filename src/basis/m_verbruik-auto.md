@@ -2,15 +2,17 @@
 title: Verbruik auto
 difficulty: medium #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Opdracht:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Maak een programa dat het gemiddelde verbruik van een auto kan
 berekenen. Het programma vraagt de gebruiker om de volgende invoer:
 

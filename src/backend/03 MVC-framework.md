@@ -1,13 +1,22 @@
 ---
-title: MVC-Framework
+title: MVC-Framework PHP
 difficulty: medium
 date: 2023-01-03
+technology: html,php,database
+author: rkerssies
 ---
 
-#### {{ course-title }}
+
 # {{ title }}
 
 <img src="{{ '/_assets/api/Laravel-logo.png' | url }}" style="width:10%;">
+
+> ##### Voorkennis
+> * programmeer-basics, functions, databases, MVC-basics, git
+> * routes, controllers, actions, views, layouts, services, middleware
+
+> ##### Doel
+> * ervaringen op doen in een MVC-framework dat veelvuldig wordt gebruikt in het bedrijfsleven
 
 * Programmeertaal: PHP of een andere backend-taal
 
@@ -89,5 +98,4 @@ In het framework zijn de volgende technische eigenschappen toegepast:
   * evt uitgevoerd met: [Bouncer]({{ 'https://github.com/JosephSilber/bouncer' | url }}) of [Laratrust]({{ 'https://laratrust.santigarcor.me' | url }})
 * dummy-accounts en daarbij gekoppelde rollen en rechten worden door seeding en factories toegevoegd aan de databasetabellen
 
-
-
+> {{technologiesTags}}

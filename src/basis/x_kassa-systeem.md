@@ -2,15 +2,17 @@
 title: Kassa systeem
 difficulty: expert #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Taak:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Schrijf een programma dat de gebruiker een aantal bedragen vraagt. Het
 programma controleert of het ingegeven bedrag daadwerkelijk een bedrag
 is en geen tekst of ongeldige tekens bevat. Het programma stop met

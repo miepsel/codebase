@@ -2,15 +2,17 @@
 title: Raad het getal
 difficulty: medium #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Taak:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Maak een programma dat voldoet aan de volgende requirements: 
 Het programma kiest een willekeurig getal tussen de 1 en 100; 
 

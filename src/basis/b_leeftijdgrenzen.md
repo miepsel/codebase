@@ -2,15 +2,17 @@
 title: Leeftijdgrenzen
 difficulty: basic #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Opdracht:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Maak een programma met onderstaande functionaliteiten:
 
 - De gebruiker kan zijn leeftijd ingeven.

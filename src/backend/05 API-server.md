@@ -1,13 +1,22 @@
 ---
-title: API-server
+title: API-server PHP
 difficulty: expert
 date: 2023-01-05
+technology: php,database
+author: rkerssies
 ---
 
-#### {{ course-title }}
+
 # {{ title }}
 
 <img src="{{ '/_assets/api/Laravel-logo.png' | url }}" style="width:10%;">
+
+> ##### Voorkennis
+> * programmeer-basics, functions, OOP, MVC-frameworks, git
+> * API-toepassen, json
+
+> ##### Doel
+> * API-server opzetten om data op te halen of CRUD-acties uit te voeren binnen een framework
 
 * Programmeertaal: PHP of een andere backend-taal
 
@@ -51,3 +60,5 @@ In het framework zijn de volgende technische eigenschappen toegepast:
 In het framework zijn de volgende technische eigenschappen toegepast:
 * maak gebruik van de mogelijkheid om variabelen voor een model in de API-url te plaatsen
 * instatieer een model-class en validatie-class op basis van de class-naam in de url   
+
+> {{technologiesTags}}

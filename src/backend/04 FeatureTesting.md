@@ -1,14 +1,22 @@
 ---
-title: FeatureTesting
+title: FeatureTesting PHP
 difficulty: expert
 date: 2023-01-04
-
+technology: php,all,tests
+author: rkerssies
 ---
 
-#### {{ course-title }}
+
 # {{ title }}
 
 <img src="{{ '/_assets/api/Laravel-logo.png' | url }}" style="width:10%;">
+
+> ##### Voorkennis
+> * programmeer-basics, functions, OOP, MVC-basics, git
+> * optioneel: MVC-framework, cronjobs
+
+> ##### Doel
+> * geautomatiseerde tests maken en toepassen op eigen geschreven code
 
 * Programmeertaal: PHP of een andere backend-taal
 
@@ -61,3 +69,4 @@ In het framework zijn de volgende technische eigenschappen toegepast:
 * de testresultaten zijn op een prettige manier te controleren
 * (optioneel) laat de tests 's nachts uitvoeren met een cron-job en de resultaten worden op datum verzameld in een log-file
 
+> {{technologiesTags}}

@@ -2,18 +2,20 @@
 title: Leeftijd
 difficulty: basic #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Omschrijving:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Omschrijving
 In deze opdracht gaan we rekenen met getallen.
 
-***Opdracht:***  
+### Resultaat
 Maak een programma en geeft het de naam leeftijd. Het programma heeft de
 volgende functionaliteiten:
 

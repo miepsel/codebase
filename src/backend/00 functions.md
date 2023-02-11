@@ -1,15 +1,22 @@
 ---
-title: Functions
+title: Functions PHP
 difficulty: medium
 date: 2022-12-30
+technology: html,php
+author: rkerssies
 ---
 
-#### {{ course-title }}
+
 # {{ title }}
 
-[//]: # ([Aap met link]&#40;{{ '/_assets/img/aap.jpg' | url }}&#41;)
-
 <img src="{{ '/_assets/api/PHP-logo.png' | url }}" style="width:10%;">
+
+> ##### Voorkennis
+> * programmeer-basics, git
+
+> ##### Doel
+> * zelfstandig, georganiseerd en volgens bedrijfsstandaarden kunnen programmeren met functions
+
 
 * Programmeertaal: PHP of een andere backend-taal
 
@@ -55,4 +62,4 @@ Voorbeelden van de uitwerking;
     <img src="{{ '/_assets/api/functions/jungle_userdata.png' | url }}" style="width:15%;"> 
     <img src="{{ '/_assets/api/functions/jungle_logoff.png' | url }}" style="width:15%;">
 </div>
-    
+

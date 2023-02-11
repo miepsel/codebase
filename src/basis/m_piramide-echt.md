@@ -2,15 +2,17 @@
 title: Echte pyramide
 difficulty: medium #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Taak:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Schrijf een programma waarmee een piramide getekend wordt. De stenen
 worden hierbij weergegeven als een \*.
 

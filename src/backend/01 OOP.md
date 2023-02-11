@@ -1,26 +1,30 @@
 ---
-title: OOP
+title: OOP PHP
 difficulty: medium
 date: 2023-01-01
+technology: php
+author: rkerssies
 ---
 
-#### {{ course-title }}
 # {{ title }}
 
-[//]: # ([Aap met link]&#40;{{ '/_assets/img/aap.jpg' | url }}&#41;)
+<!-- <img src="{{ '/_assets/api/PHP-logo.png' | url }}" style="width:10%;"> -->
+{{ '/_assets/api/PHP-logo.png' | url | image: 'Logo PHP', 10 }}
+> ##### Voorkennis
+> * programmeer-basics, functions, git
 
-<img src="{{ '/_assets/api/PHP-logo.png' | url }}" style="width:10%;">
+> ##### Doel
+> * zelfstandig, georganiseerd en volgens bedrijfsstandaarden kunnen programmeren in een object geöriienteerde programmeertaal
 
 * Programmeertaal: PHP of een andere backend-taal
 
-***Taken:***
-
+### Taken
 Voer de code uit volgens “best practice” en eerder geleerde technieken.
 
 1. Maak een programma met een werking; 
    * als bezoeker wil ik gegevens (NAW) van een enkele student kunnen tonen
 
-   Het programma heeft de volgende technische eigenschappen:
+   * Het programma heeft de volgende technische eigenschappen:
    * alle logica staat in classes beschreven
    * elke class staat in een eigen php-bestand
    * logica is zo veel mogelijk uitgesplitst per method
@@ -86,4 +90,4 @@ Voer de code uit volgens “best practice” en eerder geleerde technieken.
    Het programma heeft de volgende technische eigenschappen:
     * verbeter de verwerking van database-queries door gebruik te maken van parameter-binding
     * geef data aan de query-method in de vorm van een multi associative array
-   
+

@@ -2,15 +2,17 @@
 title: Knikkers
 difficulty: basic #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Opdracht:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Schrijf een programma dat de gebruiker vraagt een aantal knikkers in te
 voeren. Het ingevoerde aantal knikkers moet tussen de 1 en 20 liggen,
 laat je programma dit controleren. Op basis van het ingevoerde aantal

@@ -2,15 +2,17 @@
 title: Namenlijst
 difficulty: basic #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Taak:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Schrijf een programma dat de volgende functionaliteiten bevat:
 
 - Vraag de debruiker een lijst met namen in te voeren (gesplitst met een

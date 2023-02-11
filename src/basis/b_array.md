@@ -2,15 +2,17 @@
 title: Array
 difficulty: basic #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Taak:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 
 - Codeer een array met de naam `programmeertalen` en vul deze array met
   de volgende gegevens: "PHP", "C#", "HTML", "JavaScript", "Java",

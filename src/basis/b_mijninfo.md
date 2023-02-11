@@ -2,15 +2,17 @@
 title: Mijn info
 difficulty: basic #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Opdracht:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Maak een programma met de naam mijninfo. Het programma voldoet aan de
 volgende functionaliteiten:
 

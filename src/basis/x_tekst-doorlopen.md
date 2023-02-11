@@ -2,14 +2,16 @@
 title: Tekst doorlopen
 difficulty: expert #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
-***Opdracht:***  
+# {{ title }}
+
+> ### Voorkennis
+> Programmeertaal: naar keuze
+### Resultaat
 Maak een programma dat de gebruiker vraagt een tekst in te voeren. De
 maximale lengte van de tekst die ingevoerd mag worden is 250 tekens.
 Zorg dat het programma deze maximale lengte controleert en een melding

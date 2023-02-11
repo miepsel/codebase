@@ -2,14 +2,16 @@
 title: Muntje gooien
 difficulty: basic #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Taak:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Schrijf een programma dat willekeurig kop of munt gooit. De uitkomst
 wordt vervolgens op het scherm getoond.

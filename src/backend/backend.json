@@ -1,7 +1,7 @@
 {
     "layout": "final.njk",
-    "course-title": "Backend",
+    "coursetitle": "Backend",
     "tags": ["backend"],
     "permalink": "/backend/{{ title | slug }}/{{ page.index }}",
-    "pepper": "green"
+    "pepper": "red"
 }

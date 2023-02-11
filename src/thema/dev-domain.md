@@ -1,12 +1,13 @@
 ---
-title: Local domainnames
+title: Webservices | Local domainnames
 difficulty: basic
 date: 2022-02-11
+author: rkerssies
+technologies: webservices
 ---
 
-#### {{ course-title }}
 # {{ title }}
-<img src="{{ '/_assets/_icons/webserver.png' | url }}" style="width:10%;">
+<img src="{{ '/_assets/themas/webserver.png' | url }}" style="width:10%;">
 
 
 ## Domain-names maken op een local-server

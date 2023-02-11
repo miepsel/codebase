@@ -2,15 +2,17 @@
 title: Klok
 difficulty: medium #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Taak:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Programmeer een digitale klok waarbij realtime de huidige datum en tijd
 wordt weergegeven. Het programma moet voldoen aan de volgende eisen:
 

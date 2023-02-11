@@ -2,15 +2,17 @@
 title: Faculteit
 difficulty: medium #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Omschrijving:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Omschrijving
 Een faculteit is een wiskundige berekening die gebruikt wordt bij
 kansberekeningen. Je kunt er onder andere mee berekenen hoe groot de
 kans is dat je de loterij wint.
@@ -21,7 +23,7 @@ onder dat getal te vermenigvuldigen met elkaar.
 De faculteit van 3 is dus: 1 \* 2 \* 3 = 6 De faculteit van 6 is dus: 1
 \* 2 \* 3 \* 4 \* 5 \* 6 = 720
 
-***Taak:***  
+### Resultaat
 Schrijf een programma met de volgende functionaliteiten:
 
 - Vraag de gebruiker een getal in te voeren.

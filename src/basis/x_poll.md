@@ -2,14 +2,16 @@
 title: Poll
 difficulty: expert #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
-***Opdracht:***  
+# {{ title }}
+
+> ### Voorkennis
+> Programmeertaal: naar keuze
+### Resultaat
 
 1.  Bedenk een vraag voor een poll. Het antwoord op de vraag moet met ja
     of nee te beantwoorden zijn.

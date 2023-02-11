@@ -2,15 +2,17 @@
 title: Breuken
 difficulty: medium #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Taak:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Schrijf een programma dat de gebruiker om twee getallen vraagt. Het
 eerste getal noemen we het deeltal. Het tweede getal noemen we de deler.
 

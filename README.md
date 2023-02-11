@@ -21,12 +21,12 @@ difficulty: basic #basic | medium | expert
 date: 2023-01-02
 ---
 
-#### {{ course-title }}
+#### {{ coursetitle }}
 
 ## {{ title }}
 
 ```
-* Op de plek van course-title komt bovenin het scherm 'codebase' te staan (met een streep eronder).
+* Op de plek van coursetitle komt bovenin het scherm 'codebase' te staan (met een streep eronder).
 * De tekst die tussen de '---' en de '---' staat wordt 'frontmatter' genoemd.
 * Difficulty bepaalt het aantal 'pepertjes' dat wordt getoond naast de titel van een opdracht.
 * Date bepaalt niet alleen de datum, maar ook de volgorde waarin opdrachten worden weergegeven (beetje awkward, maar voorlopig werk het zo!)
@@ -50,10 +50,15 @@ Je kunt afbeeldingen tonen met behulp van markdown-code:
 // absolute link naar een externe afbeelding
 ![alt-tekst](http://link/naar/de/afbeelding)
 
-// relatieve link naar een afbeelding:
+// relatieve link naar een afbeelding op 100% van de breedte van de pagina:
 ![alt-tekst]( {{ '/pad/naar/map/in/src-directory' | url }} )
+
+// relatieve link naar een afbeelding met een aangepaste breedte in %
+{{ '/_assets/backend/cursus.png' | url | image: 'Cursus databases ERD', 60 }}
 ```
-De dubbele curly braces zorgen ervoor dat het opgegeven pad wordt omgezet naar een absolute url.
+De dubbele curly braces zorgen ervoor dat het opgegeven pad wordt omgezet naar een absolute url.  
+Het pad naar de afbeelding wordt bewerkt door een 'url'-filter. De baseURL wordt toegevoegd.  
+Het 'image'-filter wordt aangeroepen met de grootte als percentage en de alt-tekst.  
 
 ### Links
 Je kunt op de volgende manier links maken in markdown:
@@ -99,3 +104,16 @@ Onderstaande extra stijlen in de table-tag werken niet in deze readme, maar wel 
 </table>
 </div>
 ```
+
+## Updates
+rel v0.1.0 2023-02-09
+In deze release wordt automatisch de course-title ( = coursetitle geworden)  genereerd, evenals de datum en de auteurs. Deze gegevens verschijnen bovenaan bij iedere opdracht. In de navigatie is een knop 'More..' toegevoegd met een link naar overzichten van auteurs en technologieën. Per auteur of technologie kunnen nu bijbehorende opdrachten worden opgevraagd.
+Deze functie werkt alleen als er in de front matter ook een auteur(s) en/of technology wordt opgegeven.
+
+Voorbeeld:
+
+title: Whatever
+author: jsiewers, cstegeman
+technology: php, html, css
+date: 04-04-2023
+

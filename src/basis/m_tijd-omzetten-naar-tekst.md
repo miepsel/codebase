@@ -2,15 +2,17 @@
 title: Tijd naar tekst
 difficulty: medium #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Opdracht:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Maak een programma dat de huidige tijd omzet naar tekst. Bij het starten
 van het programma wordt de huidige tijd bepaald, deze tijd wordt
 vervolgens automatisch omgezet naar tekst. Bijvoorbeeld:

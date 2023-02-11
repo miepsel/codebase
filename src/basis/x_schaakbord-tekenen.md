@@ -2,15 +2,17 @@
 title: Schaakbord
 difficulty: expert #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Opdracht:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Maak een programma dat een schaakbord presenteert op het scherm. Gebruik
 in dit programma een geneste for-loop.
 

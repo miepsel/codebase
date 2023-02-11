@@ -2,15 +2,17 @@
 title: Raad het woord
 difficulty: medium #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Opdracht:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Maak een programma dat een array bevat met daarin 15 verschillende door
 jezelf gekozen woorden. Het programma kiest vervolgens random een woord
 uit de array. Het programma laat de lengte van het gekozen woord zien

@@ -1,7 +1,7 @@
 {
     "layout": "final.njk",
-    "course-title": "Basis programmeren",
+    "coursetitle": "Basis programmeren",
     "tags": ["basis"],
     "permalink": "/basis/{{ title | slug }}/{{ page.index }}",
-    "pepper": "red"
+    "pepper": "green"
 }

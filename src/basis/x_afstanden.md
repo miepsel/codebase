@@ -2,13 +2,15 @@
 title: Afstanden
 difficulty: expert #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
+
+> ### Voorkennis
+> Programmeertaal: naar keuze
 
 ***Extra info:***  
 Grootheden zijn: Kilometer, Hectometer, Decameter, Meter, Decimeter,
@@ -19,14 +21,14 @@ eenheden minder.
 
 1 kilometer = 10 hectometer meter = 1 decameter
 
-***Taak:***  
+### Resultaat
 Schrijf een programma dat de gebruiker eerste om een waarde en een
 grootheid vraagt. Daarna vraagt het programma naar welke grootheid de
 gegeven waarde moet worden omgerekend.
 
 De uitvoer is de omgerekende waarde en grootheid.
 
-***Uitvoer***  
+### Resultaat
 ```csv
 
 Welke waarde : 100   

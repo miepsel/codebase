@@ -2,15 +2,17 @@
 title: XML to JSON
 difficulty: medium #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Opdracht:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 Bij deze opdracht hoort een XML-bestand. Maak een programma dat het
 aangeleverde XML bestand converteert naar een JSON-bestand. Het
 JSON-bestand moet het volgende formaat hebben:

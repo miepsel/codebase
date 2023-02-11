@@ -2,15 +2,17 @@
 title: Pyramide
 difficulty: medium #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Taak:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 We gaan een programma schrijven waarmee een piramide (eigenlijk een
 driehoek) gebouwd kan worden. De stenen worden hierbij weergegeven als
 een \*.

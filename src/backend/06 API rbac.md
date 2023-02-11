@@ -1,13 +1,21 @@
 ---
-title: API-rbac
+title: API-rbac PHP
 difficulty: expert
 date: 2023-01-07
+technology: php,database
+author: rkerssies
 ---
 
-#### {{ course-title }}
 # {{ title }}
 
 <img src="{{ '/_assets/api/Laravel-logo.png' | url }}" style="width:10%;">
+
+> > ##### Voorkennis
+> * programmeer-basics, functions, OOP, MVC-frameworks, API, git
+> * API-toepassen, json
+
+> ##### Doel
+> * gebruik tokens en roll based access control (rbac)
 
 * Programmeertaal: PHP of een andere backend-taal
 
@@ -42,7 +50,7 @@ In het framework zijn de volgende technische eigenschappen toegepast:
 * API-verzoeken geven json-response gebaseerd op autorisatie uitgevoerd op de geldende permissies
 * incorrecte permissies geven een 403 in json
 
-
 In het framework zijn de volgende technische eigenschappen toegepast:
 * correcte api-routes om de requests van de url op te vangen
 
+> {{technologiesTags}}

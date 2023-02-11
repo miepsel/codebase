@@ -2,15 +2,17 @@
 title: Array met getallen
 difficulty: medium #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Opdracht:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 In een array worden 20 willekeurig bepaalde getallen geplaatst
 (willekeurige waarden tussen de 0 en 500). Deze getallen worden
 afgedrukt op het scherm. Alle getallen in de array worden vergeleken met

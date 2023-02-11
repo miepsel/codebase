@@ -2,14 +2,16 @@
 title: Weather App
 difficulty: expert #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze, API maakt gebruikt van JSON  
-***Opdracht:***  
+# {{ title }}
+
+> ### Voorkennis
+> Programmeertaal: naar keuze
+### Resultaat
 
 Maak op basis van de API van [OpenWeathermap](http://openweathermap.org/forecast) een weer-applicatie.
 Geef een lijst met weergegevens (windrichting, temperatuur e.a.) van de komende uren weer van Zwolle.

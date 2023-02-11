@@ -2,15 +2,17 @@
 title: Lotto
 difficulty: medium #basic | medium | expert
 date: 2023-01-02
+author: jheuvelman
 ---
 
-#### {{ course-title }}
 
-## {{ title }}
 
-* Programmeertaal: Naar keuze
+# {{ title }}
 
-***Opdracht:***  
+> ### Voorkennis
+> Programmeertaal: naar keuze
+
+### Resultaat
 
 1.  Vraag de gebruiker zijn 6 lotto getallen (getal tussen 1 en 42) in
     te geven. Het programma controleert de ingevoerde getallen op
